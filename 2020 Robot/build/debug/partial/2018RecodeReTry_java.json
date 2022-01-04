@@ -1,0 +1,11 @@
+[
+  {
+    "name": "2018RecodeReTry (in project 2018RecodeReTry)",
+    "file": "C:\\Users\\Kelly\\Documents\\Workspace\\FRC2020\\2018RecodeReTry\\build\\libs\\2018RecodeReTry.jar",
+    "extensions": [
+      "C:\\Users\\Kelly\\Documents\\Workspace\\FRC2020\\2018RecodeReTry\\build\\tmp\\expandedArchives\\halsim_gui-2020.1.2-windowsx86-64.zip_0ded91afab576f356c80ba4c4e7b8310\\windows\\x86-64\\shared\\halsim_gui.dll"
+    ],
+    "librarydir": "C:\\Users\\Kelly\\Documents\\Workspace\\FRC2020\\2018RecodeReTry\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]

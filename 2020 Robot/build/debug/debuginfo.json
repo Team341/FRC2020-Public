@@ -1,0 +1,23 @@
+[
+  {
+    "artifact": "frcJava (in project 2018RecodeReTry)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "2018RecodeReTry",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project 2020 restart)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "2020 restart",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project 2020 Robot Code)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "2020 Robot Code",
+    "language": "java"
+  }
+]
